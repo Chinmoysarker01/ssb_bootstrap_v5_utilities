@@ -1,0 +1,25 @@
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: lime; 
+}
+
+.box3{
+	width: 600px;
+	height: 200px;
+	background-color: lime; 
+}
+.mh300{
+	min-height: 300px;
+}
+.box4{
+	background-color: lime; 
+	border: 5px solid blue;
+}
+.overflow-scroll{
+	width: 200px;
+	height: 200px;
+}
+.box{
+	color: black;
+}
